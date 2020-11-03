@@ -1,7 +1,7 @@
-C++学习笔记
+C++类和对象
 ===========
 
 .. toctree::
     :maxdepth: 1
 
-    tutorial/index
+    const
