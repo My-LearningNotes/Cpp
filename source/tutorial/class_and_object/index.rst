@@ -8,6 +8,7 @@ C++类和对象
     member
     constructor
     destructor
+    this
     const
     static_member_variable
     static_member_function
