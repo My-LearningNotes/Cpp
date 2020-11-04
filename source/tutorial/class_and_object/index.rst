@@ -6,6 +6,7 @@ C++类和对象
 
     class_and_object
     member
+    memory_model
     constructor
     destructor
     this
