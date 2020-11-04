@@ -6,6 +6,7 @@ C++类和对象
 
     class_and_object
     member
+    constructor
     destructor
     const
     static_member_variable
