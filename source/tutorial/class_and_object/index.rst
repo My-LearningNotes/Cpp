@@ -10,6 +10,7 @@ C++类和对象
     member_function_implement
     constructor
     destructor
+    object_array
     this
     const
     static_member_variable
