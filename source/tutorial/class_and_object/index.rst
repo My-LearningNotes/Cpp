@@ -11,6 +11,7 @@ C++类和对象
     constructor
     destructor
     object_array
+    member_object
     this
     const
     static_member_variable
